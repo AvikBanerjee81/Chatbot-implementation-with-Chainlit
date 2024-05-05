@@ -1,3 +1,8 @@
+## Using chainlit for bot creation
+
+## documentation link "https://docs.chainlit.io/get-started/installation"
+
+
 pip install chainlit
 
 git init
@@ -11,4 +16,4 @@ git init
     9  clear
    10  touch .gitignore
    11  history
-   a
+   
